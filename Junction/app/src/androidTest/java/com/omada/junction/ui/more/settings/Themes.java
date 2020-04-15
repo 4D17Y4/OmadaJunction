@@ -1,4 +1,4 @@
 package com.omada.junction.ui.more.settings;
 
-public class themes {
+public class Themes {
 }
